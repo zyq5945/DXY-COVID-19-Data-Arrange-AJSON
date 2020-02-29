@@ -9,9 +9,9 @@
 
 针对可能对不同网站访问速度有快慢问题，酌情可以考虑以下最快的访问地址：
 
-### [github.com 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-AJSON)
+### [github 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-AJSON)
 
-### [github.io  网页地址](https://zyq5945.github.com/DXY-COVID-19-Data-Arrange-AJSON)
+### [gitee  仓库地址](https://gitee.com/zyq5945/DXY-COVID-19-Data-Arrange-AJSON)
 
 
 ## 3.生成文件的说明
