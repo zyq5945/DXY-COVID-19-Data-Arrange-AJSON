@@ -1,11 +1,11 @@
 ﻿[
 ["TimeOffset","UpdateTime","ParentName","ChildName","ChildConfirmedCount","ChildSuspectedCount","ChildCuredCount","ChildDeadCount","ChildTreatingCount","ChildCuredRate","ChildDeadRate","ChildTreatingRate","ChildDeadDivideCured","ChildCuredDivideDead","ChildConfirmedCountRate","ChildSuspectedCountRate","ChildCuredCountRate","ChildDeadCountRate","ChildTreatingCountRate","ChildConfirmedNorm","ChildSuspectedNorm","ChildCuredNorm","ChildDeadNorm","ChildTreatingNorm","ChildDeadDivideCuredNorm","ChildCuredDivideDeadNorm","ChildTatalConfirmedNorm","ChildTatalSuspectedNorm","ChildTatalCuredNorm","ChildTatalDeadNorm","ChildTatalTreatingNorm"],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","中卫",4,0,3,0,1,0.75,0,0.25,0,null,0.05333333,null,0.04225352,null,0.25,1,null,1,null,0.3333333,null,null,8.032612E-05,null,0.000109589,0,2.631094E-05],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","吴忠",28,0,27,0,1,0.9642857,0,0.03571429,0,null,0.3733333,null,0.3802817,null,0.25,1,null,1,null,0.04761905,null,null,0.0005622829,null,0.0009863013,0,2.631094E-05],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","固原",5,0,5,0,0,1,0,0,0,null,0.06666667,null,0.07042254,null,0,1,null,1,null,0,null,null,0.0001004077,null,0.0001826484,0,0],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","宁东",1,0,1,0,0,1,0,0,0,null,0.01333333,null,0.01408451,null,0,1,null,1,null,0,null,null,2.008153E-05,null,3.652968E-05,0,0],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","石嘴山",1,0,1,0,0,1,0,0,0,null,0.01333333,null,0.01408451,null,0,1,null,1,null,0,null,null,2.008153E-05,null,3.652968E-05,0,0],
-[42.86808,"2020-03-06 20:50:02.299","宁夏","银川",36,0,34,0,2,0.9444444,0,0.05555556,0,null,0.48,null,0.4788733,null,0.5,1,null,1,null,0.07692308,null,null,0.0007229351,null,0.001242009,0,5.262189E-05],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","中卫",4,0,3,0,1,0.75,0,0.25,0,null,0.05333333,null,0.04225352,null,0.25,1,null,1,null,0.3333333,null,null,8.032612E-05,null,0.0001094092,0,2.631094E-05],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","吴忠",28,0,27,0,1,0.9642857,0,0.03571429,0,null,0.3733333,null,0.3802817,null,0.25,1,null,1,null,0.04761905,null,null,0.0005622829,null,0.0009846827,0,2.631094E-05],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","固原",5,0,5,0,0,1,0,0,0,null,0.06666667,null,0.07042254,null,0,1,null,1,null,0,null,null,0.0001004077,null,0.0001823487,0,0],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","宁东",1,0,1,0,0,1,0,0,0,null,0.01333333,null,0.01408451,null,0,1,null,1,null,0,null,null,2.008153E-05,null,3.646973E-05,0,0],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","石嘴山",1,0,1,0,0,1,0,0,0,null,0.01333333,null,0.01408451,null,0,1,null,1,null,0,null,null,2.008153E-05,null,3.646973E-05,0,0],
+[42.86808,"2020-03-06 20:50:02.299","宁夏","银川",36,0,34,0,2,0.9444444,0,0.05555556,0,null,0.48,null,0.4788733,null,0.5,1,null,1,null,0.07692308,null,null,0.0007229351,null,0.001239971,0,5.262189E-05],
 [15.71295,"2020-02-08 17:06:38.721","宁夏","宁东管委会",1,0,0,0,1,0,0,1,null,null,0.02222222,null,0,null,0.03333334,1,null,null,null,1,null,null,2.008153E-05,null,0,0,2.631094E-05],
-[15.71295,"2020-02-08 17:06:38.721","宁夏","待明确地区",0,0,10,0,null,null,null,null,0,null,0,null,0.6666667,null,null,null,null,1,null,null,null,null,0,null,0.0003652968,0,null]
+[15.71295,"2020-02-08 17:06:38.721","宁夏","待明确地区",0,0,10,0,null,null,null,null,0,null,0,null,0.6666667,null,null,null,null,1,null,null,null,null,0,null,0.0003646973,0,null]
 ]
