@@ -1,4 +1,4 @@
 ﻿[
 ["TimeOffset","UpdateTime","ParentName","ParentConfirmedCount","ParentSuspectedCount","ParentCuredCount","ParentDeadCount","ParentTreatingCount","ParentCuredRate","ParentDeadRate","ParentTreatingRate","ParentDeadDivideCured","ParentCuredDivideDead","ParentConfirmedNorm","ParentSuspectedNorm","ParentCuredNorm","ParentDeadNorm","ParentTreatingNorm","ParentDeadDivideCuredNorm","ParentCuredDivideDeadNorm","ParentTatalConfirmedNorm","ParentTatalSuspectedNorm","ParentTatalCuredNorm","ParentTatalDeadNorm","ParentTatalTreatingNorm"],
-[36.63278,"2020-02-29 15:11:12","大不列颠及北爱尔兰联合王国",20,0,8,0,12,0.4,0,0.6,0,null,1,null,1,null,1,null,null,4.645221E-05,0,4.642364E-05,0,0.0002369996]
+[59.83598,"2020-03-23 20:03:49","叙利亚",1,0,0,0,1,0,0,1,null,null,1,null,null,null,1,null,null,2.322611E-06,0,0,0,1.974996E-05]
 ]
