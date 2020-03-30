@@ -1,5 +1,5 @@
 ﻿[
 ["TimeOffset","UpdateTime","ParentName","ChildName","ChildConfirmedCount","ChildSuspectedCount","ChildCuredCount","ChildDeadCount","ChildTreatingCount","ChildCuredRate","ChildDeadRate","ChildTreatingRate","ChildDeadDivideCured","ChildCuredDivideDead","ChildConfirmedCountRate","ChildSuspectedCountRate","ChildCuredCountRate","ChildDeadCountRate","ChildTreatingCountRate","ChildConfirmedNorm","ChildSuspectedNorm","ChildCuredNorm","ChildDeadNorm","ChildTreatingNorm","ChildDeadDivideCuredNorm","ChildCuredDivideDeadNorm","ChildTatalConfirmedNorm","ChildTatalSuspectedNorm","ChildTatalCuredNorm","ChildTatalDeadNorm","ChildTatalTreatingNorm"],
 [62.30661,"2020-03-26 07:21:31","山西","境外输入",2,0,0,0,2,0,0,1,null,null,0.01481481,null,0,null,1,0.6666667,0,null,null,0.6666667,null,null,3.99952E-05,0,0,0,5.262189E-05],
-[65.3474,"2020-03-29 08:20:15","山西","境外输入",3,1,0,0,3,0,0,1,null,null,0.02205882,1,0,null,1,1,1,null,null,1,null,null,5.99928E-05,0.08333334,0,0,7.893283E-05]
+[65.3474,"2020-03-29 08:20:15","山西","境外输入",3,1,0,0,3,0,0,1,null,null,0.02205882,1,0,null,1,1,1,null,null,1,null,null,5.99928E-05,0.07142857,0,0,7.893283E-05]
 ]
