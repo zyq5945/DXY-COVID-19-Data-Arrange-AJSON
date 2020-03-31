@@ -1,4 +1,4 @@
 ﻿[
 ["TimeOffset","UpdateTime","ParentName","ParentConfirmedCount","ParentSuspectedCount","ParentCuredCount","ParentDeadCount","ParentTreatingCount","ParentCuredRate","ParentDeadRate","ParentTreatingRate","ParentDeadDivideCured","ParentCuredDivideDead","ParentConfirmedNorm","ParentSuspectedNorm","ParentCuredNorm","ParentDeadNorm","ParentTreatingNorm","ParentDeadDivideCuredNorm","ParentCuredDivideDeadNorm","ParentTatalConfirmedNorm","ParentTatalSuspectedNorm","ParentTatalCuredNorm","ParentTatalDeadNorm","ParentTatalTreatingNorm"],
-[67.3493,"2020-03-31 08:23:00","Total",845048,313,231651,39988,573409,0.2741276,0.04732039,0.678552,0.1726217,5.793013,null,null,null,null,null,null,null,null,null,null,null,null]
+[67.3493,"2020-03-31 08:23:00","博茨瓦纳",3,0,0,0,3,0,0,1,null,null,1,null,null,null,1,null,null,3.550094E-06,0,0,0,1.971065E-05]
 ]
