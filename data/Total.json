@@ -1,4 +1,4 @@
 ﻿[
 ["TimeOffset","UpdateTime","ParentName","ParentConfirmedCount","ParentSuspectedCount","ParentCuredCount","ParentDeadCount","ParentTreatingCount","ParentCuredRate","ParentDeadRate","ParentTreatingRate","ParentDeadDivideCured","ParentCuredDivideDead","ParentConfirmedNorm","ParentSuspectedNorm","ParentCuredNorm","ParentDeadNorm","ParentTreatingNorm","ParentDeadRateEx","ParentCuredRateEx","ParentTatalConfirmedNorm","ParentTatalSuspectedNorm","ParentTatalCuredNorm","ParentTatalDeadNorm","ParentTatalTreatingNorm"],
-[76.0375,"2020-04-09 00:54:00","Total",1505368,286,392212,87826,1025330,0.2605423,0.05834188,0.6811159,0.2239248,4.465785,null,null,null,null,null,0.1829564,0.8170437,null,null,null,null,null]
+[76.34061,"2020-04-09 08:10:29","Total",1512806,286,392488,88118,1032200,0.2594437,0.05824805,0.6823083,0.2245113,4.454118,null,null,null,null,null,0.1833477,0.8166523,null,null,null,null,null]
 ]
